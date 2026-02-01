@@ -137,7 +137,7 @@ The network graph displays:
 
 ## Authors
 
-CSC111 Project Team - University of Toronto
+CSC111 Project Team - University of Toronto.
 
 ## License
 
